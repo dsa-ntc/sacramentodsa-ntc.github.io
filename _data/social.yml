@@ -7,14 +7,14 @@ facebook: &facebook
 twitter: &twitter
   label: "Twitter"
   icon: "fab fa-fw fa-twitter-square"
-  url: "https://twitter.com/DSASac"
-  username: DSASac
+  url: "https://twitter.com/Sac_DSA"
+  username: Sac_DSA
 
 instagram: &instagram
   label: "Instagram"
   icon: "fab fa-fw fa-instagram"
-  url: "https://www.instagram.com/dsasac"
-  username: dsasac
+  url: "https://www.instagram.com/Sac_DSA"
+  username: Sac_DSA
 
 github: &youtube
   label: "YouTube"
